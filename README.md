@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-* 💻 I’m a **Software Developer** with ~2 years of experience building scalable web applications
+* 💻 I’m a **Software Developer** with 3 years of experience building scalable web applications
 * 🚀 Currently working as **Senior Software Engineer at Pareekshn (SPIWD), Noida**
 * 🧠 Strong in **Data Structures, Algorithms, System Design & Distributed Systems**
 * ⚙️ Backend-focused with Spring Boot & Microservices, experienced in React frontend integration
