@@ -64,7 +64,7 @@
 
 ---
 
-#### 🛠️ Pareekshn Admin Panel
+#### 🛠️ Assessment Platform Admin Panel
 
 **Tech:** Spring Boot, JSP, JavaScript, jQuery, MySQL
 
