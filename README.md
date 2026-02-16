@@ -22,7 +22,7 @@
 * ⚙️ Backend-focused with Spring Boot & Microservices, experienced in React frontend integration
 * 🔐 Passionate about secure systems (JWT, AES-256), performance optimization & clean architecture
 * ☁️ Experienced in AWS deployment, VPS hosting, Nginx, and production infrastructure
-* 📫 Reach me at: [Email](mailto:giteshb260@gmail.com)
+* 📫 Reach me at: <a href="mailto:giteshb260@gmail.com">giteshb260@gmail.com</a>
 * ⚡ Fun fact: I enjoy solving DSA problems & optimizing real-world systems
 
 ---
