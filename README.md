@@ -55,7 +55,7 @@
 
 **Tech:** Spring Boot, React.js, MySQL
 
-* Government land lease survey management system
+* Government land lease survey management and analytics system
 * Designed scalable backend architecture & database schema
 * Generated server-side Excel & PDF reports
 * Integrated Playwright headless browser for dynamic PDF rendering
