@@ -23,7 +23,7 @@
 * 🔐 Passionate about secure systems (JWT, AES-256), performance optimization & clean architecture
 * ☁️ Experienced in AWS deployment, VPS hosting, Nginx, and production infrastructure
 * 📫 Reach me at: <a href="mailto:giteshb260@gmail.com">giteshb260@gmail.com</a>
-* ⚡ Fun fact: I enjoy solving DSA problems & optimizing real-world systems
+* ⚡ I enjoy solving DSA problems ,computer networking and & optimizing real-world systems
 
 ---
 
