@@ -1,4 +1,4 @@
-## Hey there 👋, I'm Gitesh Kumar!
+## Hey there 👋, I'm Gitesh Kumar !
 
 <a href="https://www.gitesh.dev/">
   <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
@@ -19,7 +19,7 @@
 * 💻 I’m a **Software Developer** with 3 years of experience building scalable web applications
 * 🚀 Currently working as **Senior Software Engineer at Pareekshn (SPIWD), Noida**
 * 🧠 Strong in **Data Structures, Algorithms, System Design & Distributed Systems**
-* ⚙️ Backend-focused with Spring Boot & Microservices, experienced in React frontend integration
+* ⚙️ Backend-focused with Spring Boot ,NodeJs & Microservices, experienced in React frontend integration
 * 🔐 Passionate about secure systems (JWT, AES-256), performance optimization & clean architecture
 * ☁️ Experienced in AWS deployment, VPS hosting, Nginx, and production infrastructure
 * 📫 Reach me at: <a href="mailto:giteshb260@gmail.com">giteshb260@gmail.com</a>
