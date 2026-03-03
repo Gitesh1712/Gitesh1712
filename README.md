@@ -48,7 +48,7 @@
 
 #### 🏢 Survey Platform
 
-**Tech:** Spring Boot, React.js, MySQL
+**Tech:** Node.js, Spring Boot, React.js, Tailwind CSS, MySQL
 
 * Government land lease survey management and analytics system
 * Designed scalable backend architecture & database schema
@@ -61,7 +61,7 @@
 
 #### 🛠️ Assessment Platform Admin Panel
 
-**Tech:** Spring Boot, JSP, JavaScript, jQuery, MySQL
+**Tech:** Spring Boot, React.Js, Bootstrap, MySQL
 
 * Back-office platform for exam management & result processing
 * Designed REST APIs for exam, user & results management
