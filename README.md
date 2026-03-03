@@ -38,14 +38,9 @@
 **Senior Software Engineer** — Pareekshn, Noida
 📅 June 2024 – Present
 
-* Building scalable, secure web applications
+* Building scalable, secure web applications and optimizing product features.
 * Collaborating cross-team to deliver efficient and production-ready features
-
-**Junior Software Developer** — Your Webstore, Dehradun
-📅 July 2023 – April 2024
-
-* Developed & optimized e-commerce systems
-* Integrated backend APIs with frontend components
+* Managing Infrastructure and Deployments
 
 ---
 
